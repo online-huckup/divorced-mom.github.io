@@ -1,0 +1,54 @@
+.c-img {
+    width: 500px !important;
+}
+body {
+    background: url(images/bg-2.jpg);
+    background-repeat: no-repeat;
+    background-size: 964px;
+    background-color: transparent;
+}
+.content-area {
+    margin-top: 0px;
+}
+.box {
+    margin: auto; display: flex; flex-direction: column; align-items: center; justify-content: center;
+    margin-top: 230px;
+    border-radius: 20px;
+    box-shadow: -4px 4px 11px black;
+}
+.border {
+    
+    padding: 20px;
+}
+.btn {
+    padding: 7px 100px !important;
+    font-size: 25px;
+    display: block;
+    text-transform: uppercase;
+    margin: 20px auto;
+    border-radius: 30px !important;
+    
+    
+}
+h2 {
+    font-size: 55px;
+    color: white;
+}
+.paragraph {
+    font-size: 25px;
+    color: white;
+    background-color: blue;
+    display: block;
+}
+img {
+    border-radius: 20px;
+    padding: 5px;
+}
+.text-center {
+    text-align: center;
+    margin: 0px auto;
+}
+.heading-texts {
+    text-decoration: none;
+    text-transform: bold;
+}

@@ -1,0 +1,31 @@
+@media only screen and (max-width: 600px) {
+    
+    h2 {
+        font-size: 40px;
+        color: white;
+    }
+    .paragraph {
+        font-size: 29px;
+        font-weight: bold;
+        color: black;
+        background-color: transparent;
+    }
+    .box {
+        margin-top: 170 !important;
+        margin-bottom: 10px;
+    }
+    body {
+        background-size: 390px;
+    }
+
+
+    .content-area {
+        margin-top: 70px;
+    }
+
+
+
+
+
+
+  }
